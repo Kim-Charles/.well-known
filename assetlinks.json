@@ -2,7 +2,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "movement_app",
-      "package_name": "com.movement83",
+      "package_name": "com.movement83.mobile",
       "sha256_cert_fingerprints":
       ["09:85:D8:51:53:37:B5:F0:02:FA:9B:AB:03:E7:4B:C7:75:81:B1:89:5C:63:E7:1C:80:AF:F5:52:54:D3:E0:CB"]
     }
